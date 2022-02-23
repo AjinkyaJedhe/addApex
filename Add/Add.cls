@@ -1,4 +1,4 @@
-public class Jkl
+public class bcd
 {    
     public integer a;
     public integer b;
