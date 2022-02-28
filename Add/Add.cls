@@ -1,4 +1,4 @@
-public class bcd
+public class xyz
 {    
     public integer a;
     public integer b;
