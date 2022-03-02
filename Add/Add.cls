@@ -1,4 +1,4 @@
-public class xyz
+public class student
 {    
     public integer a;
     public integer b;
